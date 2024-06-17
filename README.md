@@ -23,6 +23,20 @@
    model = load_model(<alamat model>)
    ```
 
-5. **Run the Application**
+3. **Run the Application**
 
    Tinggal Run deh
+
+## Running APP
+
+1. **Instal Package React**
+   
+   Buka terminal lalu run 'npm i'
+
+2. **Running in Development**
+   
+   Buka terminal lalu run 'npm start'
+
+3. **Running in Test Runner**
+
+   Buka terminal lalu run 'npm test'
